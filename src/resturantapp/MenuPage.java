@@ -5,7 +5,6 @@
  */
 package resturantapp;
 
-import Bill.Bill;
 import com.mysql.cj.util.StringUtils;
 import database.MenuDB;
 import goods.Menu;
